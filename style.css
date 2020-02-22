@@ -1,0 +1,134 @@
+body{
+  background-color: white;
+  margin: 0;
+  text-align: center;
+  font-family: 'Montserrat', serif ;
+  line-height: 1;
+  color: #40514E;
+
+}
+h1{
+  font-size: 5.62rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento',cursive ;
+  color: #66BFBF;
+
+}
+h2{
+  font-family: 'Montserrat', serif;
+  font-size: 1.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+h3{
+  font-family: 'Montserrat', serif;
+  color: #11999E;
+}
+h4{
+  font-family: 'Montserrat',serif ;
+}
+h5{
+  font-family: 'Montserrat',serif ;
+}
+.topctn{
+  padding-top: 100px;
+  position: relative;
+}
+
+.b-cloud {
+  position: absolute;
+  left: 20%;
+}
+.u-cloud {
+  position:absolute;
+  padding: 20px;
+  left: 65%;
+  margin-top: 20px;
+}
+.prof{
+  width: 15%;
+}
+a{
+  color: #11999E;
+  text-decoration: none;
+  margin: 10px 20px;
+  font-family: 'Montserrat',serif ;
+
+}
+a:hover{
+  color: #EAF6F6;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+
+
+}
+.gif1{
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+.gif2{
+  width: 25%;
+  float:right;
+  margin-left: 30px;
+}
+p{
+  color: #40514E;
+  line-height: 2;
+}
+hr{
+  border-style: dotted none none;
+  border-color: #EAF6F6;
+  height: 0.1;
+  width: 5%;
+  border-width: 5px;
+  margin: 100px auto;
+
+}
+.foot{
+  color: #EAF6F6;
+  padding: 20px 0;
+  font-size: 0.75rem;
+}
+.top-ctnr{
+  background-color:#E4F9F5;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 50px 0 20px;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.middle-container{
+  margin: 100px 0;
+}
+.myButton {
+  margin: 25px 0;
+	box-shadow: 0px 10px 14px -7px #11cdd4;
+	background:linear-gradient(to bottom, #11cdd4 5%, #11999E 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Montserrat',serif ;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #30e3cb 5%, #2bc4ad 100%);
+	background-color:#30e3cb;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
